@@ -1,10 +1,16 @@
-# LLCD ☄️☄️☄️
+Brainy Flavors
 ##### Linkedin Learning Courses Downloader
 ###### v0.2: now works without webdriver
 
 A simple python scraper tool that downloads video lessons from Linkedin Learning
 
 ## How to use
+* Make sure you have installed python 2.7 version in your PC
+* Install pip (If you do not install it before)
+* Intall BS4 (BS4 = BeautiFul Soup 4)
+
+
+
 First install the requirements:
 ```
 pip install -r requirements.txt
@@ -29,4 +35,3 @@ python llcd.py
 The courses will be saved in the `out` folder.
 
 ### Demo
-[![asciicast](https://asciinema.org/a/143894.png)](https://asciinema.org/a/143894)
